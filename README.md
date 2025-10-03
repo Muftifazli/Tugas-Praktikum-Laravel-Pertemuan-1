@@ -113,7 +113,7 @@ html
 
 1. Clone repository ini:
 bash
-git clone https://github.com/Muftifazli/Tugas-Praktikum-Laravel-Pertemuan-1/edit/main/README.md
+git clone https://github.com/Muftifazli/Tugas-Praktikum-Laravel-Pertemuan-1
 cd pro1
 
 
@@ -175,7 +175,7 @@ Semua perubahan telah di-commit dan di-push ke repository dengan pesan commit ya
 ## 👨‍💻 Pengembang
 
 - *Nama*: Mufti Fazli
-- *Repository*: [pbw](https://github.com/Muftifazli/Tugas-Praktikum-Laravel-Pertemuan-1/edit/main/README.md)
+- *Repository*: [pbw](https://github.com/Muftifazli/Tugas-Praktikum-Laravel-Pertemuan-1)
 - *Branch*: main
 
 ## 📄 Lisensi
